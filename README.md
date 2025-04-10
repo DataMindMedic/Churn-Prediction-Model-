@@ -114,5 +114,6 @@ Streamlit for the interactive web framework
 XGBoost for the machine learning algorithm
 Scikit-learn for model evaluation metrics
 
+## Author
 
 Created by [Micheal Omotosho] - [omotoshom11@gmail.com/datamindmedic@gmail.com/@datamindmedic]
