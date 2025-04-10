@@ -4,11 +4,6 @@
 ChurnGuard is a customer churn prediction system for telecom companies, designed to identify customers who are likely to discontinue their services. By analyzing various customer attributes and usage patterns, the system helps businesses proactively implement retention strategies and reduce customer attrition.
 
 
-## Check out the live demo: 
-
-https://churn-prediction-app-6oz4.onrender.com
-
-
 ## Predictive Analytics:
 
 Uses machine learning to predict customer churn probability
