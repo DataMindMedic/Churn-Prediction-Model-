@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/michealomotosho/Documents/MY DOCUMENTS/DATA SCIENCE SELF
+  PROJECT/Customer Churn/mlruns/503376478142475471/2ddbdd43a60344cdad6870697a71560a/artifacts
+end_time: 1744286356900
+entry_point_name: ''
+experiment_id: '503376478142475471'
+lifecycle_stage: active
+run_id: 2ddbdd43a60344cdad6870697a71560a
+run_name: Logistic_Regression
+run_uuid: 2ddbdd43a60344cdad6870697a71560a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744286354677
+status: 3
+tags: []
+user_id: michealomotosho

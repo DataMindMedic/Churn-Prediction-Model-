@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/michealomotosho/Documents/MY DOCUMENTS/DATA SCIENCE SELF
+  PROJECT/Customer Churn/mlruns/503376478142475471/6aab55605e134e519e5df67c19eae92b/artifacts
+end_time: 1744286359252
+entry_point_name: ''
+experiment_id: '503376478142475471'
+lifecycle_stage: active
+run_id: 6aab55605e134e519e5df67c19eae92b
+run_name: Random_Forest
+run_uuid: 6aab55605e134e519e5df67c19eae92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744286356904
+status: 3
+tags: []
+user_id: michealomotosho

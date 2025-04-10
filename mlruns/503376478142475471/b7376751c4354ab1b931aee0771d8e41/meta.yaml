@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/michealomotosho/Documents/MY DOCUMENTS/DATA SCIENCE SELF
+  PROJECT/Customer Churn/mlruns/503376478142475471/b7376751c4354ab1b931aee0771d8e41/artifacts
+end_time: 1744286248050
+entry_point_name: ''
+experiment_id: '503376478142475471'
+lifecycle_stage: active
+run_id: b7376751c4354ab1b931aee0771d8e41
+run_name: XGBoost_Tuned
+run_uuid: b7376751c4354ab1b931aee0771d8e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744286245895
+status: 3
+tags: []
+user_id: michealomotosho
