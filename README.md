@@ -47,14 +47,14 @@ Open your browser and navigate to http://localhost:8501
 
 ## Usage
 
-# Single Customer Prediction
+## Single Customer Prediction
 
 Navigate to the "Single Prediction" tab
 Enter customer information in the form
 Click "Predict Churn"
 View the prediction results and recommendations
 
-# Batch Prediction
+## Batch Prediction
 
 Navigate to the "Batch Prediction" tab
 Upload a CSV file containing customer data
@@ -71,7 +71,7 @@ Account Information: Tenure, Contract type, PaperlessBilling, PaymentMethod
 Services: PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
 Financial: MonthlyCharges, TotalCharges
 
-# The model achieves:
+## The model achieves:
 
 Accuracy: 80%+
 Precision: 75%+
@@ -96,7 +96,7 @@ Integrate email notification system for high-risk customers
 Add more advanced machine learning models
 Develop an API endpoint for system integration
 
-# Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
